@@ -1,0 +1,13 @@
+h2,h1,h3 {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+.blue{
+    font-style: italic;
+    color: brown;
+    font-size: 30px;
+    text-decoration: underline;
+
+}
+
