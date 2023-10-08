@@ -1,13 +1,14 @@
-h2,h1,h3 {
-    font-size: larger;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blue;
+.custom_nav{
+    background-color:rgb(24, 16, 7);
 }
-.blue{
-    font-style: italic;
-    color: brown;
-    font-size: 30px;
+.nav-link{
+    color:rgb(141, 47, 113) ;
     text-decoration: underline;
+    position: relative;
 
+}
+.navbar-toggler-icon{
+    color: white;
+    background-color: red;
 }
 
